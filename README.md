@@ -1,6 +1,6 @@
 Hi there 👋  I am **MICHAEL**
 
-_Data Scientist|Statistician|Healthcare Analytics Researcher_
+_Data Scientist| Statistician| Healthcare Analytics Researcher_
 
 **🧑‍💻About Me**
 * MSc Data Science, University of Sunderland · Actively applying for PhD in Data Science 
