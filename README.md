@@ -2,7 +2,7 @@ Hi there 👋  I am **MICHAEL**
 
 _Data Scientist | Statistician | Healthcare Analytics Researcher_
 
-##**🧑‍💻About Me** 
+#🧑‍💻About Me
 * MSc Data Science, University of Sunderland · Actively applying for PhD in Data Science 
 * 📊 5+ years of experience in consulting, research and analytics at Lufemos Consult
 * 🧠 Expertise in Bayesian hierarchical modelling, discrete choice experiments and causal inference
@@ -20,7 +20,7 @@ _Data Scientist | Statistician | Healthcare Analytics Researcher_
 | [Sentiment Analysis](https://github.com/Fadele/sentiment-analysis) | NLP sentiment classification pipeline | Python |
 | [Student Retention](https://github.com/Fadele/Student-Retention) | Survival analysis for student retention | R |
 
- **📬Connect With Me**
+ ###📬Connect With Me
  * 💼 Consulting: Lufemos Consult
 * 🔗 LinkedIn: https://www.linkedin.com/in/michael-fadele-237aa5182/
 * 📧 Email: fadelem09@gmail.com
